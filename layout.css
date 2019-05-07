@@ -198,7 +198,7 @@ iframe{
             line-height: 120%;
         }
         h1{
-            font-size: x-small;
+            font-size: small;
         }
         .main1, .main2{
             max-width: 95%;
@@ -211,7 +211,7 @@ iframe{
             margin-top: 60px;
         }
         .taskbar a{
-          font-size: x-small;
+          font-size: small;
           padding: 5px 5px;
         }
         .header{
