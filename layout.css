@@ -10,7 +10,7 @@ h1{
 }
 h1,h2,p,a,tr,br,form{
     font-family: "Verdana", "Geneva", "Sans-serif";
-    text-allign: left;
+    text-allign: right;
 }
 p,a,tr{
     color:#101010;
