@@ -196,7 +196,7 @@ iframe{
         }
 }
 
-@media screen and (max-width: 550px){
+@media screen and (max-width: 800px){
         p, h2, .main a, tr, form, .main1, .main2{
             font-size: small;
             line-height: 120%;
