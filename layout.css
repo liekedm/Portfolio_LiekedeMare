@@ -183,7 +183,7 @@ iframe{
         }
         .footer{
             padding: 2px 0px;
-            font-size: xx-small;
+            font-size: x-small;
         }
         .footer p{
             margin-left: 10px;
@@ -219,8 +219,7 @@ iframe{
           padding: 5px 5px;
         }
         .header{
-            height: 130px;
-            margin-top: 25px;
+            visibility: hidden;
         }
         .footer{
             padding: 2px 0px;
