@@ -47,8 +47,12 @@ p, .main a{
   display: flex;
   flex-wrap: wrap;
 }
-.line2 img, .line3 img, .line4 img{
+.line1 img, .line2 img, .line3 img, .line4 img{
   width: 99%;
+}
+.line1{
+  flex: 100%;
+  width: 100%;
 }
 .line2{
   flex: 50%;
