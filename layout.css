@@ -219,7 +219,8 @@ iframe{
           padding: 5px 5px;
         }
         .header{
-            visibility: hidden;
+            height: 10px;
+            margin-top: 25px;
         }
         .footer{
             padding: 2px 0px;
