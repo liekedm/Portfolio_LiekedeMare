@@ -116,7 +116,7 @@ iframe{
 .row{
     display:flex;
 }
-column{
+.column{
     float: left;
     flex: 33.33%;
     padding: 10px;
