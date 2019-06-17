@@ -8,7 +8,7 @@ h1{
     border-bottom:1px solid #0d8489;
     padding-bottom:5px;
 }
-h1,h2,p,a,tr,br,form{
+h1,h2,h3,p,a,tr,br,form{
     font-family: "Verdana", "Geneva", "Sans-serif";
     text-allign: left;
 }
@@ -19,7 +19,10 @@ h1,h2{
     color:#0d8489;
     margin-bottom: 15px;
 }
-h2{
+h3{
+    font-weight:bold;
+}
+h2,h3{
     margin-top: 20px;
 }
 p, .main a{
@@ -129,7 +132,7 @@ columnR{
 
 
 @media screen and (min-width: 1050px){
-        p, h2, .main a, tr, form{
+        p, h2, h3, .main a, tr, form{
             font-size: small;
             line-height: 150%;
         }
@@ -173,7 +176,7 @@ columnR{
 }
 
 @media screen and (max-width: 1050px){
-        p, h2, .main a, tr ,form{
+        p, h2, h3, .main a, tr ,form{
             font-size: x-small;
             line-height: 120%;
         }
@@ -214,7 +217,7 @@ columnR{
 }
 
 @media screen and (max-width: 550px){
-        p, h2, .main a, tr, form{
+        p, h2, h3, .main a, tr, form{
             font-size: x-small;
             line-height: 120%;
         }
