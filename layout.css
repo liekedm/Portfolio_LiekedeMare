@@ -116,12 +116,8 @@ iframe{
 .row{
     display:flex;
 }
-columnL{
-    flex:20%;
-    padding: 10px;
-}
-columnR{
-    flex:80%;
+column{
+    flex:33.33%;
     padding: 10px;
 }
 .row:after {
