@@ -43,7 +43,7 @@ p, .main a{
     bottom: 0;
 }
 
-.row, .row2, .row, .row3 {
+.row2, .row, .row3 {
   display: flex;
   flex-wrap: wrap;
 }
@@ -110,12 +110,15 @@ iframe{
     width:100%;
 }
 
+.row{
+    display:flex;
+}
 columnL{
-    width:20%;
+    flex:20%;
     padding: 10px;
 }
 columnR{
-    width:80%;
+    flex:80%;
     padding: 10px;
 }
 .row:after {
