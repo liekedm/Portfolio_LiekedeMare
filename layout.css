@@ -117,7 +117,8 @@ iframe{
     display:flex;
 }
 column{
-    flex:33.33%;
+    float: left;
+    flex: 33.33%;
     padding: 10px;
 }
 .row:after {
