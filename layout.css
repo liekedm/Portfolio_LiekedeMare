@@ -69,6 +69,10 @@ p, .main a{
   flex: 25%;
   width: 25%;
 }
+.line11{
+  flex: 9.09%;
+  width: 9.09%;
+}
 
 li{
     display: inline-block;
