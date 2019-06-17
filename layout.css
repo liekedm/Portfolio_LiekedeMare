@@ -50,7 +50,7 @@ p, .main a{
   display: flex;
   flex-wrap: wrap;
 }
-.line1 img, .line2 img, .line3 img, .line4 img{
+.line1 img, .line2 img, .line3 img, .line4 img, .line11 img{
   width: 99%;
 }
 .line1{
