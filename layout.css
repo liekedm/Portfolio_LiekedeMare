@@ -76,6 +76,10 @@ p, .main a{
   flex: 9%;
   width: 9%;
 }
+.linefill{
+    flex: 75%;
+    width: 75%;
+}
 
 li{
     display: inline-block;
