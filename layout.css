@@ -26,7 +26,7 @@ h2,h3{
     margin-top: 20px;
 }
 h4{
-    allign:center;
+    text-align:center;
 }
 p, .main a{
     text-align: justify;
@@ -55,7 +55,9 @@ p, .main a{
 }
 .line1 img, .line2 img, .line3 img, .line4 img, .line11 img{
   width: 99%;
-    allign: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .line3 p{
  width: 90%;
