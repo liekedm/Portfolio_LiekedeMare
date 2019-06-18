@@ -8,7 +8,7 @@ h1{
     border-bottom:1px solid #0d8489;
     padding-bottom:5px;
 }
-h1,h2,h3,h4,p,a,tr,br,form{
+h1,h2,h3,p,a,tr,br,form{
     font-family: "Verdana", "Geneva", "Sans-serif";
     text-allign: left;
 }
@@ -26,6 +26,7 @@ h2,h3{
     margin-top: 20px;
 }
 h4{
+    font-family: "Verdana", "Geneva", "Sans-serif";
     text-align:center;
 }
 p, .main a{
