@@ -55,6 +55,7 @@ p, .main a{
 }
 .line1 img, .line2 img, .line3 img, .line4 img, .line11 img{
   width: 99%;
+    allign: center;
 }
 .line3 p{
  width: 90%;
