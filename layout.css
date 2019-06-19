@@ -12,7 +12,7 @@ h1,h2,h3,p,a,tr,br,form{
     font-family: "Verdana", "Geneva", "Sans-serif";
     text-allign: left;
 }
-p,tr{
+p,tr,a{
     color:#101010;
 }
 h1,h2,h4{
